@@ -2,4 +2,4 @@
 
 Just a random person learning programming
 
-Currently working on my personal website
+Currently messing around with NixOS and (still) working on my website
