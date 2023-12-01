@@ -1,4 +1,4 @@
-# Hi, I'm Felix 👋
+# Hi, I'm Luna 👋
 
 Just a random person learning programming
 
