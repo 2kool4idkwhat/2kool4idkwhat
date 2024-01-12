@@ -2,7 +2,7 @@
 
 Just a random person learning programming
 
-Currently messing around with Hyprland, Nix/NixOS and (still) working on my website
+Currently messing around with Nix/NixOS. Also (still) working on my website
 
 <!--
 
