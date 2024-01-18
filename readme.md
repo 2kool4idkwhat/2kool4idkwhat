@@ -1,8 +1,8 @@
 # Hi, I'm Luna 👋
 
-Just a random person learning programming
+🏳️‍⚧️ Just a random person learning programming, writing random silly things for fun
 
-Currently messing around with Nix/NixOS. Also (still) working on my website
+Currently messing around with Nix/NixOS
 
 <!--
 
