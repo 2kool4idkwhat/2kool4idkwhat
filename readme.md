@@ -15,6 +15,6 @@ Some of my public projects:
 
   - [More Thorns](https://github.com/2kool4idkwhat/sts2-more-thorns) - adds more cards that use the Thorns mechanic 
 
-  - [Low VFX](https://github.com/2kool4idkwhat/sts2-lowvfx) - disables some flashy visual effects
+  - [Low VFX](https://github.com/2kool4idkwhat/sts2-lowvfx) - disables most flashy visual effects
 
   - [Better Mazaleth's Gift](https://github.com/2kool4idkwhat/sts2-cawcaw) - makes your character CAW CAW when using the Mazaleth's Gift potion
