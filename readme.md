@@ -1,6 +1,6 @@
 # Hi, I'm Luna 👋
 
-🏳️‍⚧️ Just a random person learning programming, writing random silly things for fun. I mainly use Go
+🏳️‍⚧️ Just a random person writing random silly things for fun. I mainly use Go
 
 Some of my public projects:
 
@@ -11,10 +11,10 @@ Some of my public projects:
 - [nekofetch](https://github.com/2kool4idkwhat/nekofetch) - yet another minimal system info *fetch
 
 - Slay the Spire 2 mods:
+  - [Low VFX](https://github.com/2kool4idkwhat/sts2-lowvfx) - disables most flashy visual effects
+
   - [More Bootlegs](https://github.com/2kool4idkwhat/sts2-more-bootlegs) - adds more bootleg relics to the Fake Merchant's pool
 
   - [More Thorns](https://github.com/2kool4idkwhat/sts2-more-thorns) - adds more cards that use the Thorns mechanic 
-
-  - [Low VFX](https://github.com/2kool4idkwhat/sts2-lowvfx) - disables most flashy visual effects
 
   - [Better Mazaleth's Gift](https://github.com/2kool4idkwhat/sts2-cawcaw) - makes your character CAW CAW when using the Mazaleth's Gift potion
